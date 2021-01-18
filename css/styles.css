@@ -10,7 +10,6 @@ body {
     background-color: #4d4d4d;
   }
   footer {
-    border: black solid 2px;
     background-color:#4d4d4d;
   }
   p {
@@ -27,4 +26,10 @@ body {
   }
   label {
       color:#ff6666;
+  }
+
+  input {
+      border: 1px solid black;
+      width: 50%;
+      padding: 5px;
   }
