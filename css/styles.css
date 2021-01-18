@@ -1,0 +1,30 @@
+body {
+    background-color:#333333;
+  }
+  
+  nav {
+    background-color: #4d4d4d;
+  }
+  
+  main {
+    background-color: #4d4d4d;
+  }
+  footer {
+    border: black solid 2px;
+    background-color:#4d4d4d;
+  }
+  p {
+    color:white;
+  }
+  h1,h2,h3,h4,h5,h5 {
+    color:#ff1a1a;
+  }
+  time{
+    color:#ff6666;
+  }
+  a {
+    color:#ff6666;
+  }
+  label {
+      color:#ff6666;
+  }
